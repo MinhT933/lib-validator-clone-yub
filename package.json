@@ -1,0 +1,27 @@
+{
+  "name": "ts-validator-to-learn-builder-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MinhT",
+  "license": "ISC",
+  "description": "lib validator clone yub",
+  "devDependencies": {
+    "@types/node": "^24.0.12",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "undici-types": "^7.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhT933/lib-validator-clone-yub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MinhT933/lib-validator-clone-yub/issues"
+  },
+  "homepage": "https://github.com/MinhT933/lib-validator-clone-yub#readme"
+}
